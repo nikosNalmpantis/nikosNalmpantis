@@ -34,6 +34,7 @@
 ### Connect with me
 
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/gmail_logo_icon_147283.png" />][gmail]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_170234.png" />][li]
 
 &nbsp;
 
@@ -44,6 +45,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikosNalmpantis&layout=compact&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" />
 
 [gmail]: mailto:nikonalb@gmail.com
+[li]: https://www.linkedin.com/in/nikos-nalmpantis/
 
 <!--
 **nikosNalmpantis/nikosNalmpantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
